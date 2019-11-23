@@ -25,12 +25,12 @@ yay_install exa
 yay_install fd
 yay_install fish
 yay_install google-chrome
-yay_install kitty
 yay_install neovim
 yay_install openssh
 yay_install python-pynvim
 yay_install ripgrep
 yay_install starship-bin
+yay_install tilix
 yay_install visual-studio-code-bin
 
 echo_yellow "Installing neovim plugins..."
