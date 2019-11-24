@@ -2,10 +2,9 @@
     "editor.cursorBlinking": "solid",
     "editor.cursorSurroundingLines": 5,
     "editor.find.autoFindInSelection": "multiline",
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "SF Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
-    "editor.lineNumbers": "interval",
     "editor.minimap.enabled": false,
     "editor.mouseWheelZoom": true,
     "editor.renderWhitespace": "selection",
@@ -18,4 +17,8 @@
     "workbench.startupEditor": "readme",
     "workbench.tree.indent": 24,
     "workbench.tree.renderIndentGuides": "always",
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "explorer.confirmDelete": false
 }
