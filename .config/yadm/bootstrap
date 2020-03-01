@@ -24,7 +24,6 @@ yay_install diff-so-fancy
 yay_install exa
 yay_install fd
 yay_install fish
-yay_install google-chrome
 yay_install neovim
 yay_install openssh
 yay_install python-pynvim
